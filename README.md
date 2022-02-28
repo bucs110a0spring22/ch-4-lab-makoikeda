@@ -8,18 +8,19 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ I used the new module, math to draw sin/cos/tan curves by defining functions for each. Loop is useful in drawing a graph. I learned how to set up the window's coordinate and how to change the background color.  
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 4/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ N/A
 
 ## REFERENCES:
- < List any outside resources used >
+ N/A
+
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ N/A
